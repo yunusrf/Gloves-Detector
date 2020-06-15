@@ -1,7 +1,7 @@
 ## Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow + Gloves detection
 
 
-![Otro meme más](images\gloves.jpg)
+![Otro meme más](images/gloves.jpg)
 
 Este repositorio tiene como misión detectar si las manos de un usuario que se ponen delante de la webcam tienen guantes o no. 
 Para ello se hace uso de un repositorio cuyo enlace se puede ver a continuación y de un modelo de entrenador en **Teachable Machine** (disponible en la carpeta `gloves-checkpoint`).
