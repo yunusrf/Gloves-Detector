@@ -1,17 +1,17 @@
-name: handtracking
+name: env_handtracking
 channels:
   - defaults
 dependencies:
   - certifi=2020.4.5.1=py36_0
   - pip=20.0.2=py36_3
-  - python=3.6.10=h9f7ef89_2
+  # - python=3.6.10=h9f7ef89_2
   - setuptools=46.2.0=py36_0
-  - sqlite=3.31.1=h2a8f88b_1
-  - vc=14.1=h0510ff6_4
-  - vs2015_runtime=14.16.27012=hf0eaf9b_1
+  # - sqlite=3.31.1=h2a8f88b_1
+  # - vc=14.1=h0510ff6_4
+  # - vs2015_runtime=14.16.27012=hf0eaf9b_1
   - wheel=0.34.2=py36_0
-  - wincertstore=0.2=py36h7fe50ca_0
-  - zlib=1.2.11=h62dcd97_4
+  # - wincertstore=0.2=py36h7fe50ca_0
+  # - zlib=1.2.11=h62dcd97_4
   - pip:
     - absl-py==0.9.0
     - astor==0.8.1
@@ -49,11 +49,11 @@ dependencies:
     - tensorboard==1.15.0
     - tensorflow==1.15.0
     - tensorflow-estimator==1.15.1
-    - tensorflow-tensorboard==0.4.0
+    # - tensorflow-tensorboard==0.4.0
     - termcolor==1.1.0
     - urllib3==1.25.9
     - werkzeug==1.0.1
     - wrapt==1.12.1
     - zipp==3.1.0
-prefix: C:\Users\cx02092\AppData\Local\Continuum\anaconda3\envs\handtracking
+# prefix: C:\Users\cx02092\AppData\Local\Continuum\anaconda3\envs\handtracking
 
